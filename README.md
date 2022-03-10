@@ -1,15 +1,14 @@
 # pyspark_python
 
- #    NAME: MOVIE RATINGS
- 
- #    ABOUT:I used a dataset from movie lens.It contains ratings from movies with a certain period.
-      
- #    DELIVERABLES FOR MOVIE RATINGS
- #    movieRatings Folder
- #      ratings-counter.py * file committed through git
- #      u.data * dataset upload in github
+## MOVIE RATINGS
 
-        
+ABOUT:I used a dataset from movie lens.It contains ratings from movies with a certain period.
+      
+DELIVERABLES FOR MOVIE RATINGS
+* movieRatings Folder
+* ratings-counter.py * file committed through git
+* u.data * dataset upload in github
+     
         
         
         
