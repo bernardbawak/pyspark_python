@@ -21,7 +21,7 @@
  #     word-counter folder
  #       wordCounter.py * file committed
  #       wordCounterImproveWithRegex.py * file committed
-               This improvements takes care of different capitalization, punctuations etc
+#               This improvements takes care of different capitalization, punctuations etc
  #       TheTruthAboutTitanic.txt * text file uploaded on github
 
  
